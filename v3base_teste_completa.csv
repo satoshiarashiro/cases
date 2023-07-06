@@ -1,105 +1,129 @@
-geral,ona,feedback_lideranca,perfome,compensation,judite,vp,below vp,grade,is_leader,nota_final,Desvio
-10,7,3,8,8,9,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Na Rota,Suave Desvio
-8,6,4,9,10,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match
-Não,5,7,8,7,8,flavio.stecca@ifood.com.br,thais.suzuki@ifood.com.br,9,FALSO,Estacionado,Suave Desvio
-10,8,10,8,9,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,8,FALSO,Na Rota,Match
-8,6,não,9,Não,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,7,FALSO,Na Rota,Match
-8,9,10,8,9,9,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
-7,7,3,9,7,7,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match
-9,4,4,9,9,9,diego.barreto@ifood.com.br,regina.maia@ifood.com.br,11,FALSO,Brilhou na Entrega,Match
-7,sim,d,7,7,7,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,10,FALSO,Na Rota,Match
-5,7,10,5,5,~~,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,10,FALSO,Na Rota,Match
-9,5,6,9,1,9,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,10,FALSO,Na Rota,Match
-10,Não,5,10,10,1,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Voando Alto,Match
-9,8,8,Não,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,11,VERDADEIRO,Na Rota,Suave Desvio
-10,10,a,10,10,10,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,11,VERDADEIRO,Na Rota,Match
-5,3,8,7,5,7,flavio.stecca@ifood.com.br,isabella.piratininga@ifood.com.br,8,FALSO,Na Rota,Match
-10,ash,9,10,9,Não,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,13,VERDADEIRO,Na Rota,Match
-10,2,9,8,10,10,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,8,FALSO,Ajustando a Rota,Suave Desvio
-1,9,10,10,10,10,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,11,VERDADEIRO,Na Rota,Match
-8,10,2,9,8,8,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Ajustando a Rota,Match
-10,6,8,5,8,8,flavio.stecca@ifood.com.br,david.ruiz@ifood.com.br,11,VERDADEIRO,Na Rota,Match
-10,7,7,5,8,10,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,6,FALSO,Na Rota,Suave Desvio
-10,10,5,9,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match
-8,8,8,7,8,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
-8,8,9,7,8,9,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,11,VERDADEIRO,Brilhou na Entrega,Match
-9,10,10,7,8,10,mauro.piazza@ifood.com.br,mauro.piazza@ifood.com.br,,VERDADEIRO,Brilhou na Entrega,Suave Desvio
-10,10,10,Não,10,10,fabricio.bloisi@ifood.com.br,fabricio.bloisi@ifood.com.br,10,FALSO,Voando Alto,NULL
-10,7,10,10,10,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,14,VERDADEIRO,Na Rota,Match
-10,10,10,10,9,9,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,FALSO,Na Rota,Match
-Não,10,10,7,9,9,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,13,VERDADEIRO,Na Rota,Suave Desvio
-Não,10,Não,8,Não,10,flavio.stecca@ifood.com.br,,9,FALSO,Na Rota,Match
-10,10,10,6,9,10,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Suave Desvio
-7,8,7,8,8,8,flavio.stecca@ifood.com.br,david.ruiz@ifood.com.br,12,VERDADEIRO,Brilhou na Entrega,Match
-10,10,10,9,9,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Voando Alto,Match
-10,8,10,10,8,10,diego.barreto@ifood.com.br,igor.ribeiro@ifood.com.br,11,FALSO,Ajustando a Rota,Match
-9,6,9,9,7,9,flavio.stecca@ifood.com.br,thiago.santos@ifood.com.br,8,FALSO,Na Rota,Suave Desvio
-Não,10,10,5,3,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
-10,10,10,10,10,10,henrique.iwamoto@ifood.com.br,,9,FALSO,Ajustando a Rota,Match
-10,10,10,7,10,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,15,VERDADEIRO,Na Rota,Match
-10,10,10,6,9,10,julia.barroso@ifood.com.br,caio.sagae@ifood.com.br,11,FALSO,Brilhou na Entrega,Suave Desvio
-10,7,10,10,7,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,8,FALSO,Na Rota,Match
-10,10,10,9,10,9,roberto.gandolfo@ifood.com.br,johnny.borges@ifood.com.br,10,FALSO,Na Rota,Match
-10,10,~~,2,10,10,anagabriela.lopes@ifood.com.br,maira.mendonca@ifood.com.br,10,FALSO,,Match
-8,5,10,9,8,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Ajustando a Rota,Suave Desvio
-9,9,10,4,7,8,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,12,FALSO,Na Rota,Suave Desvio
-^^,8,10,5,7,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,9,VERDADEIRO,,
-8,8,},8,9,9,julia.barroso@ifood.com.br,guilherme.matiello@ifood.com.br,11,VERDADEIRO,Voando Alto,Suave Desvio
-9,8,8,8,9,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,7,FALSO,Na Rota,Match
-10,10,10,10,10,10,julia.barroso@ifood.com.br,guilherme.matiello@ifood.com.br,7,,Ajustando a Rota,NULL
-7,9,9,7,9,8,,,,,,
-10,~~,10,9,8,9,diego.barreto@ifood.com.br,igor.ribeiro@ifood.com.br,5,FALSO,Brilhou na Entrega,Suave Desvio
-9,10,9,10,9,10,flavio.stecca@ifood.com.br,,9,FALSO,Brilhou na Entrega,Match
-9,7,Não,1,10,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,VERDADEIRO,Brilhou na Entrega,Match
-9,7,10,10,10,8,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,7,FALSO,Voando Alto,Match
-10,10,8,8,8,8,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,10,VERDADEIRO,Brilhou na Entrega,Match
-7,8,10,7,8,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Brilhou na Entrega,Suave Desvio
-8,8,9,7,7,8,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Brilhou na Entrega,Suave Desvio
-10,9,10,9,10,10,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,,Na Rota,Match
-10,10,10,10,8,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,5,FALSO,Na Rota,Match
-10,10,10,10,10,10,gustavo.vitti@ifood.com.br,eduardo.corazzin@ifood.com.br,,FALSO,Brilhou na Entrega,Match
-10,10,10,,9,10,flavio.stecca@ifood.com.br,,8,FALSO,Voando Alto,Suave Desvio
-10,8,10,8,9,10,henrique.iwamoto@ifood.com.br,ricardo.ubrig@ifood.com.br,9,FALSO,Ajustando a Rota,Match
-10,10,10,10,Não,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Na Rota,Match
-7,},10,7,7,8,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,FALSO,Ajustando a Rota,Suave Desvio
-10,10,10,8,8,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,8,FALSO,Na Rota,Match
-10,10,9,10,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio
-9,8,10,8,8,9,flavio.stecca@ifood.com.br,igor.ribeiro@ifood.com.br,8,,Voando Alto,Suave Desvio
-10,10,10,10,10,10,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio
-8,8,10,7,7,10,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,12,VERDADEIRO,Brilhou na Entrega,Suave Desvio
-10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Ajustando a Rota,Suave Desvio
-10,,9,7,10,10,,raphael.bozza@ifood.com.br,9,VERDADEIRO,Na Rota,Match
-10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,9,FALSO,,Match
-7,7,4,8,8,7,flavio.stecca@ifood.com.br,isabel.araujo@ifood.com.br,9,FALSO,Na Rota,Suave Desvio
-10,10,10,10,10,10,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,12,FALSO,Na Rota,
-10,10,8,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Na Rota,Suave Desvio
-10,9,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Ajustando a Rota,Suave Desvio
-8,9,9,9,9,8,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Brilhou na Entrega,Match
-10,10,10,10,10,10,diego.barreto@ifood.com.br,joao.barreto@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
-Não,10,7,3,8,9,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,,Brilhou na Entrega,Suave Desvio
-9,8,9,10,9,9,flavio.stecca@ifood.com.br,isabel.araujo@ifood.com.br,9,FALSO,Brilhou na Entrega,Match
-6,8,8,9,8,8,flavio.stecca@ifood.com.br,,8,FALSO,Na Rota,Match
-10,8,9,8,7,10,flavio.stecca@ifood.com.br,thais.suzuki@ifood.com.br,8,FALSO,Brilhou na Entrega,Match
-10,10,10,10,10,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,5,FALSO,Na Rota,Match
-10,8,10,3,8,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Na Rota,Match
-10,8,9,5,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,FALSO,,Suave Desvio
-8,8,9,1,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,11,FALSO,Na Rota,Suave Desvio
-Não,6,8,5,7,8,diego.barreto@ifood.com.br,gustavo.mendes@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Match
-10,9,Não,10,8,9,mauro.piazza@ifood.com.br,mauro.piazza@ifood.com.br,8,FALSO,Na Rota,Match
-10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Ajustando a Rota,Match
-Não,6,7,7,6,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,FALSO,Na Rota,Match
-9,7,7,5,7,9,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio
-7,6,10,9,10,10,diego.barreto@ifood.com.br,joao.barreto@ifood.com.br,11,FALSO,Estacionado,
-10,9,5,9,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Na Rota,Match
-8,5,10,8,7,7,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,12,VERDADEIRO,Na Rota,Suave Desvio
-3,10,Não,9,7,7,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,10,FALSO,Brilhou na Entrega,Suave Desvio
-7,2,1,9,3,5,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,12,VERDADEIRO,Na Rota,Match
-10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Na Rota,Match
-10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,11,VERDADEIRO,Brilhou na Entrega,Suave Desvio
-9,7,7,9,6,10,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Ajustando a Rota,Match
-10,8,10,10,8,8,,,,,,
-9,10,7,9,9,9,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,10,FALSO,Na Rota,Match
-10,8,10,8,9,10,flavio.stecca@ifood.com.br,isabella.piratininga@ifood.com.br,9,FALSO,Ajustando a Rota,Suave Desvio
-10,8,10,6,10,10,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,14,VERDADEIRO,Na Rota,Match
-Não,9,9,9,8,9,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,,Match
-10,9,10,9,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Match
+geral,ona,feedback_lideranca,perfome,compensation,judite,vp,below vp,grade,is_leader,nota_final,desvio,feedback
+10,7,3,8,8,9,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Na Rota,Suave Desvio,"Acho que como foi a primeira vez que tivemos o feedback gerado pelo ChatGPT, achei que foi um tanto quanto repetitivo e superficial."
+8,6,4,9,10,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match,QUANTO A AVALIAÇÃO DOS PARES NAO RECEBI DE PESSOAS DO MEU DIA A DIA
+Não,5,7,8,7,8,flavio.stecca@ifood.com.br,thais.suzuki@ifood.com.br,9,FALSO,Estacionado,Suave Desvio,"Reforçar aos foodlovers a importância de um feedback respeitoso, completo, conciso e coeso. Recebi dois feedbacks que gostaria de detalhar incômodos: 
+
+o primeiro foi um feedback onde notei algumas palavras invasivas sobre ""o que seguir"" e onde eu deveria me ""desenvolver na minha carreira"". O foodlover pode sim me trazer relatos reais sobre pontos dos quais percebe que posso ter êxito e habilidade de me desenvolver, de aptidão e até mesmo pela tendência do escopo pensando no ecossistema iFood e da atuação em conjunto como um todo. De qualquer forma, exigir um avanço em tal sentido - excluindo outro da qual tenho afinidades óbvias - chega a ser desrespeitoso.
+
+Outra situação foi onde recebi um feedback incompleto e de duas linhas. Acredito que assim como eu organizei o meu tempo para fazer feedbacks de qualidade, meus colegas também deveriam fazê-lo. Não sei se a pessoa estava com muitas demandas, ou tinha a vida pessoal tomada por obrigações importantes das quais foi preciso priorizar, logo, reforço o apoio das lideranças nas semanas de AVD, remanejando certas atividades e chamando atenção para a dedicação neste momento tão importante que é a avaliação de desempenho."
+10,8,10,8,9,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,8,FALSO,Na Rota,Match,"Gosto do processo, mas senti falta de avaliar e ser avaliado por pessoas muito importantes. Os feedbacks que chegaram para mim são inconclusivos."
+8,6,não,9,Não,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,7,FALSO,Na Rota,Match,0
+8,9,10,8,9,9,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio,"nesse ciclo eu achei que ficou tudo ainda mais claro, acredito que com a nova liderança minha rota tem sendo traçada de forma mais transparente. Acredito que para as proximas poderíamos escolher de  nossos pares para avaliação, fiquei sem avaliar dois pares por não estarem na lista.  Em relação ao meu desenvolvimento, a AvD ficou muito mais clara que o ciclo anterior"
+7,7,3,9,7,7,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match,"Não consegui avaliar ninguém neste ciclo devido não conhecer nenhuma das pessoas indicadas o que dificultou avaliá-las com assertividade pois não tinha informações suficientes. O mesmo aconteceu comigo e fui prejudicada nas avaliações. O fato dos 3 pilares terem sido unificados (inovação, all together e empreendedorismo) não deu clareza nas avaliações e o que ficou mais evidente foi uma avaliação baseada somente em resultados o que não condiz com os valores da empresa e, não faz sentido participarmos de projetos, nos desenvolvermos fazendo cursos e fortalecendo nossas softs skills se isso não é avaliado de acordo com que a empresa propõe. "
+9,4,4,9,9,9,diego.barreto@ifood.com.br,regina.maia@ifood.com.br,11,FALSO,Brilhou na Entrega,Match,0
+7,sim,d,7,7,7,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,10,FALSO,Na Rota,Match,0
+5,7,10,5,5,~~,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,10,FALSO,Na Rota,Match,"Em geral a AvD foi muito bem feita, porém a mudança de cronograma durante o processo atrapalhou um pouco"
+9,5,6,9,1,9,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,10,FALSO,Na Rota,Match,0
+10,Não,5,10,10,1,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Voando Alto,Match,0
+9,8,8,Não,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,11,VERDADEIRO,Na Rota,Suave Desvio,"Acredito que na Perfome devíamos calibrar não apenas com a decisão unanime da liderança da pessoa, mas sim unir a decisão da liderança e se houver 3 pessoas (de times diferentes) que discordem dessa decisão, isso ser levado em consideração. Pontuo isso, pois as vezes a decisão da liderança poder ter viés ou até mesmo falta de base argumentativa."
+10,10,a,10,10,10,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,11,VERDADEIRO,Na Rota,Match,0
+5,3,8,7,5,7,flavio.stecca@ifood.com.br,isabella.piratininga@ifood.com.br,8,FALSO,Na Rota,Match,0
+10,ash,9,10,9,Não,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,13,VERDADEIRO,Na Rota,Match,"Olá pessoal, boa tarde!
+Em resumo, o modelo de AVD neste ciclo foi muito bom (Ciclo após ciclo a evolução aparece e obrigado por nos escutarem), gostaria de deixar 2 feedbacks para vocês sobre o processo.
+
+1 - ONA: Acredito que em um futuro seria interessante termos um ONA Interno (Pessoas que estão dentro da mesma estrutura) e um ONA Externo (Pessoas que não estão dentro da estrutura do FL), acredito que aqui ajudará e muito a calibrar notas e percepções, vejo que muitos FL tem um ONA alto pois quem está avaliando são seus pares de time (E com isso não conseguem ter o feedback dos demais stakeholders.).
+
+2 -Processo de IComp: Neste ciclo o processo foi diferente do anterior, o Grade 13 não teve acesso ao input dos dados via sistema (Claro que, alinhamos tudo com nossa liderança (Pessoas e valores), porém quando recebemos as cartas, percebemos que alguns % tiveram alteração (Para maior e menor), e que outras pessoas tinham sido incluídas. Existe um exercício e um contexto por dentro dos valores e pessoas ali aplicados, porém precisamos ter mais acesso para acompanhar esses pontos.
+
+Em resumo, tivemos um processo bom, e que possui oportunidades. 
+Obrigado pela colaboração de todos."
+10,2,9,8,10,10,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,8,FALSO,Ajustando a Rota,Suave Desvio,0
+1,9,10,10,10,10,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,11,VERDADEIRO,Na Rota,Match,os camites ainda tem muito viés
+8,10,2,9,8,8,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Ajustando a Rota,Match,0
+10,6,8,5,8,8,flavio.stecca@ifood.com.br,david.ruiz@ifood.com.br,11,VERDADEIRO,Na Rota,Match,0
+10,7,7,5,8,10,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,6,FALSO,Na Rota,Suave Desvio,0
+10,10,5,9,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match,Achei o processo transparente e muito objetivo!Parabéns!
+8,8,8,7,8,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio,"O método 360 é muito bom e mostra como as pessoas envolvidas diretamente vêem nosso trabalho. Agora considerando o pilar Meritocracia não funciona, já que a decisão de méritos e promoção está em pessoas que não se envolvem com seu trabalho. Por isso não importa se vc evoluiu muito, gerou resultados, inovou e melhorou os processos, eles promovem quem escolhem e com base na relação ou demanda. "
+8,8,9,7,8,9,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,11,VERDADEIRO,Brilhou na Entrega,Match,"Tenho o maior time da regional, com os principais entregas e os principais responsáveis por isso. Não entendo a divisão por budge deixando de reconhecer as principais entregas ."
+9,10,10,7,8,10,mauro.piazza@ifood.com.br,mauro.piazza@ifood.com.br,,VERDADEIRO,Brilhou na Entrega,Suave Desvio,"- Relatórios poderiam manter a estrutura do texto feita durante a avaliação na plataforma (textos ficam todo em sequência sem pular linhas)
+- FLs que mudaram de escopo durante o ciclo tiveram poucas pessoas do escopo anterior no ONA, o que prejudicou uma análise completa do ciclo"
+10,10,10,Não,10,10,fabricio.bloisi@ifood.com.br,fabricio.bloisi@ifood.com.br,10,FALSO,Voando Alto,NULL,0
+10,7,10,10,10,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,14,VERDADEIRO,Na Rota,Match,I like the new format with the 5 levels and the new tool was really nice to do the evaluations. I think that we should find a way to valorize even more the Na Rota results. Some people improved during the cycle but didn't see a change on the evaluation (Always Chegou la ou Na Rota). I don't know if we could have some sub levels to show a potential improvement between the start of the range Na Rota and the end of the Range. Most of the people should be on the No Rota level and I'm a bit concern on the long term motivation if they mainly stay in this level without having a simple way to visualize the improvement done.
+10,10,10,10,9,9,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,FALSO,Na Rota,Match,.
+Não,10,10,7,9,9,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,13,VERDADEIRO,Na Rota,Suave Desvio,"Há um estranhamento meu e do time do porquê avaliamos alguns ONAs e estes ONAs não caem pra nós. Vale falar mais sobre isso.
+Há outro estranhamento meu e do time do porquê avaliamos tipo, 8 ONAs e recebemos avaliação, em alguns casos, de 4 ONAs.
+PerFome é um momento muito rico, mas há muito viés de proximidade. Como trabalhar para refinar isso?"
+Não,10,Não,8,Não,10,flavio.stecca@ifood.com.br,,9,FALSO,Na Rota,Match,0
+10,10,10,6,9,10,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Suave Desvio,"Acho que estamos evoluindo bem nos mecanismos de Avaliação. A nova régua de avaliação permite ter uma avaliação mais assertiva e o resumo do chat GPT foi uma inovação muito boa, permitindo ter uma síntese de como a pessoa está sendo avaliado e foi um bom drive para as conversas com os meus liderados. Achei a parte de mérito e compensation com pouca 'clareza' de definição de budget e alocação deste. Seria este o feedback de melhora para os próximos. Vamos em frente!!"
+7,8,7,8,8,8,flavio.stecca@ifood.com.br,david.ruiz@ifood.com.br,12,VERDADEIRO,Brilhou na Entrega,Match,0
+10,10,10,9,9,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Voando Alto,Match,"O processo em questão de ferramentas e comunicação é muito bem acabado.
+A minha única crítica é o tempo que leva, mas entendo os motivos disso."
+10,8,10,10,8,10,diego.barreto@ifood.com.br,igor.ribeiro@ifood.com.br,11,FALSO,Ajustando a Rota,Match,"Entendo que para ser mais claro, que as Notas sejam divulgadas juntamente com os comentários"
+9,6,9,9,7,9,flavio.stecca@ifood.com.br,thiago.santos@ifood.com.br,8,FALSO,Na Rota,Suave Desvio,"Acho que processo no momento esta bom, cabendo alguns ajustes. Ex: podaríamos apresentar as notas como números reais e não apenas inteiro. Isso traria mais precisão, no meu ver."
+Não,10,10,5,3,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio,0
+10,10,10,10,10,10,henrique.iwamoto@ifood.com.br,,9,FALSO,Ajustando a Rota,Match,0
+10,10,10,7,10,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,15,VERDADEIRO,Na Rota,Match,"ONA ainda é um problema na minha opinião. Dá para os lideres colherem feedbacks por fora e trazerem pontos adicionais, mas não integra super bem (não aparece em relatório, etc). Todas as mudanças dessa AvD foram super bem vindas, mas acho importante operarmos mais 1 ~ 2 ciclos assim, com ajustes/melhorias mais pontuais, antes de mudarmos tudo novamente (principalmente curva e régua de avaliação). Trazer a clareza do budget para dinâmica de compensation após AvD foi MUITO bom, deveríamos fazer isso sempre. Precisamos olhar melhor como lidar com as pessoas outros países pois dinâmicas de compensation, leis trabalhistas e situação econômica são diferentes e vamos perder talentos."
+10,10,10,6,9,10,julia.barroso@ifood.com.br,caio.sagae@ifood.com.br,11,FALSO,Brilhou na Entrega,Suave Desvio,"achei bem estranho a ONA nesse ciclo, porque algumas pessoas que eu tinha contato diário, e faziam parte do meu time não apareceu para eu avaliar e nem eu fui avaliada por eles. e algumas pessoas nas quais tive pouquíssimo contato apareceram para eu avaliar."
+10,7,10,10,7,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,8,FALSO,Na Rota,Match,"Tive poucas avaliações do ONA e não entendi o porque. Outra coisa que deixo como dica, seria a possibilidade de uma reavaliação do comite quando não concordarmos com algum feedback."
+10,10,10,9,10,9,roberto.gandolfo@ifood.com.br,johnny.borges@ifood.com.br,10,FALSO,Na Rota,Match,"1. Acredito que a avaliação do ONA precisa ser considerada tb no comitê, quando o líder opta em diminuir os pontos da avaliação. 2. É importante preparar mais os líderes para os feedbacks, principalmente para liderados em mudança de área ou cargo."
+10,10,~~,2,10,10,anagabriela.lopes@ifood.com.br,maira.mendonca@ifood.com.br,10,FALSO,,Match,"Acho que a forma de avaliar a cultura da empresa ficou muito generalista, com quatro pilares  para serem avaliados e uma única nota. Não vejo muito espaço para pontuar pilares a serem melhorados ou destaques, além do feedback escrito. Como nossa PLR é calculada com base na nota, minha impressão é que dessa forma existem mais chances de distorções entre a nota e as avaliações gerais."
+8,5,10,9,8,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Ajustando a Rota,Suave Desvio,Com essa nova mudança muitos executivos ficaram em ajustando rota por pequenos ajustes e outros executivos em superou sendo que também possuem ajustes. Ou até mesmo criar um processo de avaliação conforme a nota … por exemplo minhas notas foram boas mas ainda assim fiquei em ajustando rota. Algo que possa inibir esse tipo de situação.
+9,9,10,4,7,8,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,12,FALSO,Na Rota,Suave Desvio,Gostaria que a ONA voltasse a aceitar nossas indicações de avaliados / avaliadores pois senti falta de ter mais pessoas q acompanharam minha jornada e não puderam me avaliar
+^^,8,10,5,7,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,9,VERDADEIRO,,,Acredito que o prazo para avaliação é extenso quando pensamos em ONA. Dificilmente um par irá lembrar de como foram os meses anteriores daquele foodlover. Penso que para ONA seria ideal ter duas avaliações no ciclo para que o feedback seja construído não apenas pelo que se recordam dos últimos 3 meses.
+8,8,},8,9,9,julia.barroso@ifood.com.br,guilherme.matiello@ifood.com.br,11,VERDADEIRO,Voando Alto,Suave Desvio,"Acho super válido ter no relatório da Judite a breve explicação de cada um dos resultados, tá voando, chegou lá, recalcular toda e tudo mais, inclusive colocando também aquele gráfico que explica cada uma delas."
+9,8,8,8,9,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,7,FALSO,Na Rota,Match,"Achei todo o processo muito claro e objetivo, e essas novas mudanças no processo foram muito positivas e com certeza vão nos ajudar na contrução do nosso PDI."
+10,10,10,10,10,10,julia.barroso@ifood.com.br,guilherme.matiello@ifood.com.br,7,,Ajustando a Rota,NULL,"Já participei de muitas avaliações de desempenho diferentes, mas acho que o Ona é muito falho, visto que as vezes pessoas que não convivem com você fazem a sua avaliação. Só por uma única interação."
+7,9,9,7,9,8,,,,,,,"Acredito que a AVD do Ifood é uma dos melhores do mercado, nada a acrescentar, foi a minha primeira avaliação."
+10,~~,10,9,8,9,diego.barreto@ifood.com.br,igor.ribeiro@ifood.com.br,5,FALSO,Brilhou na Entrega,Suave Desvio,"Na questão do ONA eu compreendo perfeitamente que estará sempre em constante evolução e desenvolvimento com base na cultura que temos aqui no iFood.
+
+Porém ele é o único ponto que me faz dar uma avaliação menor, pois ele indica pessoas que eu posso ter obtido um contato bem curto e esporádico. Com isso não consigo fazer uma análise bem desenvolvida para dizer o que o colega pode melhorar ou no que ele está indo bem."
+9,10,9,10,9,10,flavio.stecca@ifood.com.br,,9,FALSO,Brilhou na Entrega,Match,"A avaliação ficou melhor estruturada principalmente ao trazer 5 níveis de avaliação, o que para mim facilitou bastante os feedbacks e notas dadas aos meus pares."
+9,7,Não,1,10,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,VERDADEIRO,Brilhou na Entrega,Match,O processo realizado pela Judite sempre é simples (de uma forma boa) e fácil de ser realizado. Todo o período da AvD é rico e ajuda demais durante as avaliações e durante o pós.
+9,7,10,10,10,8,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,7,FALSO,Voando Alto,Match,0
+10,10,8,8,8,8,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,10,VERDADEIRO,Brilhou na Entrega,Match,Acredito que uma melhoria seria casar melhor o ciclo de méritos e promoções  com a entrega das cartas de avaliação final. Achei que isso acabou gerando mais ansiedades nos foodlovers com relação a esse tema
+7,8,10,7,8,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Brilhou na Entrega,Suave Desvio,"Acredito que ainda precisamos melhorar a forma como cobramos a AVD, para que nossos colegas, pares, possam ser construtivos em seus feedbacks, para ajudar a construir um PDI de fato eficiente."
+8,8,9,7,7,8,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Brilhou na Entrega,Suave Desvio,0
+10,9,10,9,10,10,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,,Na Rota,Match,0
+10,10,10,10,8,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,5,FALSO,Na Rota,Match,0
+10,10,10,10,10,10,gustavo.vitti@ifood.com.br,eduardo.corazzin@ifood.com.br,,FALSO,Brilhou na Entrega,Match,"Foi a melhor experiencia que eu já tive com uma avd, muito comprometimento do time de People sempre trazendo as atualizações e abertos a explicar o processo e o porque do processo."
+10,10,10,,9,10,flavio.stecca@ifood.com.br,,8,FALSO,Voando Alto,Suave Desvio,Oi. Foi 10/10. Deixar o ONA cada vez mais fidedigno e não permitir pular tanto para avaliar.
+10,8,10,8,9,10,henrique.iwamoto@ifood.com.br,ricardo.ubrig@ifood.com.br,9,FALSO,Ajustando a Rota,Match,"O processo no geral foi excelente inclusive o relatório do GPT, único ponto para melhorar seria o ONA, dar opções que tenham mais relação, talvez dar maior peso para o Slack e criar uma  matriz de relação de áreas ex: (Ops tem maior conexão com farmer e produto), para dar maior relevância para as comunicações de slack e agenda."
+10,10,10,10,Não,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Na Rota,Match,"O processo no geral foi muito bom e assertivo. Eu creio que a questão do ONA é algo mais complexo de acertar, mas ainda assim já foi melhor que no ciclo passado. A respeito do chatGPT, foi o único que não tive uma boa experiência. Ele, apenas fez um compilado dos conteúdos que eu recebi e resumiu de maneira erronia, mas, como é um teste, ainda tem muito que evoluir. No mais, nota 10 para o sistema de feedbacks do ifood."
+7,},10,7,7,8,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,FALSO,Ajustando a Rota,Suave Desvio,0
+10,10,10,8,8,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,8,FALSO,Na Rota,Match,"Eu acho que todo o processo de AvD é bem feito, só as minhas indicações do ONA que foram bem ruins, apareceram muitas pessoas que eu não tenho mais contato e pessoas que eu trabalhei diretamente não apareceram."
+10,10,9,10,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio,0
+9,8,10,8,8,9,flavio.stecca@ifood.com.br,igor.ribeiro@ifood.com.br,8,,Voando Alto,Suave Desvio,0
+10,10,10,10,10,10,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio,0
+8,8,10,7,7,10,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,12,VERDADEIRO,Brilhou na Entrega,Suave Desvio,"Acredito que todo o processo de avd segue se aprimorando e melhorando como experiência e ferramenta, cada vez mais simples e mais rápido, o que ajuda muito a realiza-la. Entretanto, ainda enxergo oportunidades de melhoria no ONA, o meu não foi completamente assertivo e trouxe pessoas com quem tive pouca relação. Outro ponto é que os comitês de calibração ainda acontecem com vieses, dependendo da afinidade ou proximidade das pessoas e áreas que participam e que estão juntas no momento da avaliação. Sei da complexidade de desenvolver um padrão maior para esses momentos de troca, mas acaba impactando em alguns resultados."
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Ajustando a Rota,Suave Desvio,0
+10,,9,7,10,10,,raphael.bozza@ifood.com.br,9,VERDADEIRO,Na Rota,Match,0
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,9,FALSO,,Match,"Eu acho o processo de avaliação e feedbacks do iFood muito bem estruturado e considero uma ferramenta importantíssima para o nosso desenvolvimento como profissional. Porém, nesse ciclo, o ONA deixou a desejar. Fui avaliada apenas por 2 pessoas e pela minha liderança, pessoas que tenho interação no dia a dia até comentaram comigo que acharam estranho eu não aparecer para ser avaliada por elas, então me senti um pouco prejudicada por não ter recebido praticamente nennhum feedback pela ferramenta."
+7,7,4,8,8,7,flavio.stecca@ifood.com.br,isabel.araujo@ifood.com.br,9,FALSO,Na Rota,Suave Desvio,"Eu não sei se já tem algum material disponível em algum lugar, mas seria legal ter um tutorial de como é feito o processo de avaliação na Judite para Foodlovers novos."
+10,10,10,10,10,10,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,12,FALSO,Na Rota,,0
+10,10,8,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Na Rota,Suave Desvio,0
+10,9,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Ajustando a Rota,Suave Desvio,0
+8,9,9,9,9,8,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Brilhou na Entrega,Match,"Sobre o processo de AVD, senti que foi muito assertivo e melhorou incrívelmente a otimização do tempo com os processos novos. O que vejo como melhoria seria a volta da divisão das opções separadas dos valores do iFood, com o união das opções em uma única pergunta fica difícil entender melhor quais os valores que não foram bem para melhorar. Por mais que seja mais longo para responder, é muito melhor quando a avaliação é o mais específica possível para que possamos evoluir. Outra oportunidade de melhora que vejo para a próxima AVD é a dedicação de um momento por parte da liderança para fazer os retornos, sinto que quando há um espaçamento muito grande de retorno, acaba gerando ansiedade na equipe, portanto seria interessante que houvesse o dia dos retornos, nos quais fechamos uma parte do dia para a maior parte das lideranças conseguirem fazer o retorno, como um #AVDay kkk. Por fim, gostaria de comentar mai sobre o guia de PDI, no qual houve um manual de inteligência artificial, que auxiliou mas as interações da ferramenta pra abrir os exemplos ficavam fechando toda hora dificultando a consulta rápida. Gostaria de agradecer por todo o processo que melhorou bastante, tornou mais eficiente e rápido."
+10,10,10,10,10,10,diego.barreto@ifood.com.br,joao.barreto@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio,"Adorei a inclusão de uma nova métrica, hoje me sinto mais segura nas avaliações sem o sentimento de está sendo injusta, porém, por outro lado, ter apenas 2 indicadores Cultura e Performance exigiu um pouco mais de cautela. 
+Sobre a nova plataforma de avaliação, avaliei 2 ONAs por ela, achei a experiência fantástica, mas senti falta de poder revisitar os feedbacks depois do período de avaliação."
+Não,10,7,3,8,9,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,,Brilhou na Entrega,Suave Desvio,0
+9,8,9,10,9,9,flavio.stecca@ifood.com.br,isabel.araujo@ifood.com.br,9,FALSO,Brilhou na Entrega,Match,"Gostei muito de ter a opção do sistema, considerando as instabilidades da avaliação por slack. O resumo por GPT pode melhorar, mas o restante do relatorio ficou muito bom. Gostei dos novos criterios. Espero para o próximo um novo de-para dele para as matrizes de produto e design!"
+6,8,8,9,8,8,flavio.stecca@ifood.com.br,,8,FALSO,Na Rota,Match,0
+10,8,9,8,7,10,flavio.stecca@ifood.com.br,thais.suzuki@ifood.com.br,8,FALSO,Brilhou na Entrega,Match,Gostei do modelo atual.
+10,10,10,10,10,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,5,FALSO,Na Rota,Match,0
+10,8,10,3,8,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Na Rota,Match,"A única questão que poderia melhorar é na questão das pessoas que vieram pra mim avaliar, a grande maioria eu não conhecia então para o próximo poderia melhorar essa questão."
+10,8,9,5,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,FALSO,,Suave Desvio,"O processo de AVD e as ações que People vem desenvolvendo para apoiar lideranças e foodlovers tem melhorado a cada ciclo, acredito que o novo formato de avaliação tem ajudado a dar maior clareza entre o COMO e O QUE, além da nova régua que contribuiu MUITO para o entendimento das lideranças e melhor avaliação das pessoas foodlovers com base na realidade."
+8,8,9,1,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,11,FALSO,Na Rota,Suave Desvio,"Na área que atendo como BP ainda tem ""questionamentos"" sobre o racional do ONA. Seria interessante termos visibilidade de quem foi convidado a responder o ONA vs quem respondeu."
+Não,6,8,5,7,8,diego.barreto@ifood.com.br,gustavo.mendes@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Match,0
+10,9,Não,10,8,9,mauro.piazza@ifood.com.br,mauro.piazza@ifood.com.br,8,FALSO,Na Rota,Match,0
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Ajustando a Rota,Match,está claro e objetivo
+Não,6,7,7,6,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,FALSO,Na Rota,Match,"Desta vez optei por responder pelo portal e a experiência foi maravilhosa durante a avaliação, porém não ter visibilidade do que eu mandei (o que quando eu respondia pelo slack eu tinha) foi um pouco ruim. Caso tivéssemos a opção de ler os feedbacks enviados pelo sistema seria ótimo.
+Acerca dos gráficos e visualização como um todo eu gosto muito. Achei interessante o compilado utilizando o chat gpt, só acho que ainda pode melhorar utilizando o discurso sem a primeira pessoa. Por exemplo, o chat gpt disse que eu poderia contar com ele (risos), mas foi apenas parafraseando o feedback da minha liderança.
+Em relação ao ONA, achei que veio com um peso muito grande em trocas do início do período e pouco de trocas mais recentes, tive que excluir vários para chegar em pessoas que faziam mais sentido. E pares que eu indiquei não tiveram meu nome na lista inicial (sei que indicação não é garantia de que a pessoa irá me avaliar). O ifood muda muito, nossas interações com diversos times e pessoas também, sinto que o ONA por vezes não consegue captar esses movimentos.
+Em relação a mudança do calendário, sanou muito a dor de conseguirmos agora avaliar um ciclo fechado, mas sinto que a dor de um processo onde o início e fim são muito distantes se manteve. São meses entre o período que me preparo para avaliar até receber o feedback (por vezes já está defasado) e olhando a ponta final de méritos e promoções fica ainda mais distante.
+A demais amo os conteúdos em forma de live e playbook, e lendo o playbook antes da live deu pra sanar ainda melhor as dúvidas (um pre work, sabe). Aqui estão os feedbacks e pontos que eu vejo de melhoria, e obrigada galerinha de people por se empenharem para termos cada vez mais um processo de avaliação moldado à nossa cultura e às necessidades de todos nós foodlovers <3"
+9,7,7,5,7,9,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio,"A Avd é um processo muito transparente e que nos ajuda a ter clareza sobre nossos pontos fortes e fracos. Único ponto é que ainda considero um processo lento e, muitas vezes, não acompanha de fato o ciclo fechado."
+7,6,10,9,10,10,diego.barreto@ifood.com.br,joao.barreto@ifood.com.br,11,FALSO,Estacionado,,"tivemos um ciclo de muitas mudanças de lideranças e a palavra final ser de lideres que ficaram conosco por 1 mes, não acho coerente."
+10,9,5,9,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Na Rota,Match,"Poderia ter um Pdi pré desenhado baseado no que vem de feedback final  com dicas, onde eu ajustaram somente aqueles dados que sentir que não faz sentido. "
+8,5,10,8,7,7,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,12,VERDADEIRO,Na Rota,Suave Desvio,"As reuniões de Perfome deveriam ter um crivo acima com os heads das áreas, como uma ultima chancela para quem esta voando e para os que estão em baixa performance. Para que não tenha nenhum tipo de viés."
+3,10,Não,9,7,7,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,10,FALSO,Brilhou na Entrega,Suave Desvio,0
+7,2,1,9,3,5,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,12,VERDADEIRO,Na Rota,Match,"Para alguns grades maiores é complicado ficar limitado a somente 6 ou 7 avaliações de ONA. Em tech tem algumas pessoas que participam de times com mais de 8 pessoas e isso faz com que não exista a possibilidade do feedback. Também senti que em alguns times multi-diciplinares, com Devs, Nomads, designers, PMs, data scientist não tiveram tantas avalidações entre si, pois são funções ou grades diferentes. Seria interessante ter uma forma de garantir que pessoas do mesmo squad se avaliassem independente da função e grade."
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Na Rota,Match,"Minha primeira AvD e foi sensasional, tudo bem explicativo e intuitivo, SHOW!!!"
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,11,VERDADEIRO,Brilhou na Entrega,Suave Desvio,"melhorar a assertividade do ONA pois senti falta de pares e pessoas de interação próxima aparecerem para eu avaliar. Time de RH poderia definir um conjunto de características esperadas para cada perfil/senioridade dos executivos comerciais, de forma a diminuir ao máximo os vieses e garantir assertividade nos comportamentos/resultados esperados."
+9,7,7,9,6,10,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Ajustando a Rota,Match,0
+10,8,10,10,8,8,,,,,,,0
+9,10,7,9,9,9,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,10,FALSO,Na Rota,Match,"Ainda estou me acostumando com o processo de avaliação do iFood. Sinto algumas dificuldades durante o processo, mas acredito que é um ótimo fluxo de avaliação no geral.
+Algumas informações para construir um PDI eu ainda não sei como encontrar, mas acredito que um par com alguém com mais tempo de casa me ajude nesse ponto."
+10,8,10,8,9,10,flavio.stecca@ifood.com.br,isabella.piratininga@ifood.com.br,9,FALSO,Ajustando a Rota,Suave Desvio,0
+10,8,10,6,10,10,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,14,VERDADEIRO,Na Rota,Match,0
+Não,9,9,9,8,9,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,,Match,"Neste ciclo de AvDs, 2 pessoas que me avaliaram não participaram ativamente do ciclo inteiro comigo, não sei se isso impacta diretamente em minha avaliação final (ou se é apenas da liderança), porém fica estranho quando não se trabalha diretamente com alguém, essa pessoa não viu suas dificuldades, melhorias e também como se comportou durante todo o ciclo e ainda assim, esta pessoa avalia seu desempenho."
+10,9,10,9,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Match,"Pensando em uma avaliação cada vez mais completa, a forma como foram designadas as pessoas dentro do ONA foi insatisfatória, o sistema de indicação/designação tem que ser mais completo, o time comercial ficou extremamente prejudicado na forma como foi construído o ONA, não levar em consideração interação dentro de canais para o nosso time afasta nosso feedback da realidade e dinâmica do nosso negócio."
