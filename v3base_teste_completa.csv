@@ -1,0 +1,105 @@
+geral,ona,feedback_lideranca,perfome,compensation,judite,vp,below vp,grade,is_leader,nota_final,Desvio
+10,7,3,8,8,9,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Na Rota,Suave Desvio
+8,6,4,9,10,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match
+Não,5,7,8,7,8,flavio.stecca@ifood.com.br,thais.suzuki@ifood.com.br,9,FALSO,Estacionado,Suave Desvio
+10,8,10,8,9,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,8,FALSO,Na Rota,Match
+8,6,não,9,Não,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,7,FALSO,Na Rota,Match
+8,9,10,8,9,9,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
+7,7,3,9,7,7,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match
+9,4,4,9,9,9,diego.barreto@ifood.com.br,regina.maia@ifood.com.br,11,FALSO,Brilhou na Entrega,Match
+7,sim,d,7,7,7,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,10,FALSO,Na Rota,Match
+5,7,10,5,5,~~,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,10,FALSO,Na Rota,Match
+9,5,6,9,1,9,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,10,FALSO,Na Rota,Match
+10,Não,5,10,10,1,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Voando Alto,Match
+9,8,8,Não,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,11,VERDADEIRO,Na Rota,Suave Desvio
+10,10,a,10,10,10,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,11,VERDADEIRO,Na Rota,Match
+5,3,8,7,5,7,flavio.stecca@ifood.com.br,isabella.piratininga@ifood.com.br,8,FALSO,Na Rota,Match
+10,ash,9,10,9,Não,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,13,VERDADEIRO,Na Rota,Match
+10,2,9,8,10,10,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,8,FALSO,Ajustando a Rota,Suave Desvio
+1,9,10,10,10,10,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,11,VERDADEIRO,Na Rota,Match
+8,10,2,9,8,8,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Ajustando a Rota,Match
+10,6,8,5,8,8,flavio.stecca@ifood.com.br,david.ruiz@ifood.com.br,11,VERDADEIRO,Na Rota,Match
+10,7,7,5,8,10,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,6,FALSO,Na Rota,Suave Desvio
+10,10,5,9,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Na Rota,Match
+8,8,8,7,8,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
+8,8,9,7,8,9,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,11,VERDADEIRO,Brilhou na Entrega,Match
+9,10,10,7,8,10,mauro.piazza@ifood.com.br,mauro.piazza@ifood.com.br,,VERDADEIRO,Brilhou na Entrega,Suave Desvio
+10,10,10,Não,10,10,fabricio.bloisi@ifood.com.br,fabricio.bloisi@ifood.com.br,10,FALSO,Voando Alto,NULL
+10,7,10,10,10,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,14,VERDADEIRO,Na Rota,Match
+10,10,10,10,9,9,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,FALSO,Na Rota,Match
+Não,10,10,7,9,9,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,13,VERDADEIRO,Na Rota,Suave Desvio
+Não,10,Não,8,Não,10,flavio.stecca@ifood.com.br,,9,FALSO,Na Rota,Match
+10,10,10,6,9,10,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Suave Desvio
+7,8,7,8,8,8,flavio.stecca@ifood.com.br,david.ruiz@ifood.com.br,12,VERDADEIRO,Brilhou na Entrega,Match
+10,10,10,9,9,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Voando Alto,Match
+10,8,10,10,8,10,diego.barreto@ifood.com.br,igor.ribeiro@ifood.com.br,11,FALSO,Ajustando a Rota,Match
+9,6,9,9,7,9,flavio.stecca@ifood.com.br,thiago.santos@ifood.com.br,8,FALSO,Na Rota,Suave Desvio
+Não,10,10,5,3,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
+10,10,10,10,10,10,henrique.iwamoto@ifood.com.br,,9,FALSO,Ajustando a Rota,Match
+10,10,10,7,10,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,15,VERDADEIRO,Na Rota,Match
+10,10,10,6,9,10,julia.barroso@ifood.com.br,caio.sagae@ifood.com.br,11,FALSO,Brilhou na Entrega,Suave Desvio
+10,7,10,10,7,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,8,FALSO,Na Rota,Match
+10,10,10,9,10,9,roberto.gandolfo@ifood.com.br,johnny.borges@ifood.com.br,10,FALSO,Na Rota,Match
+10,10,~~,2,10,10,anagabriela.lopes@ifood.com.br,maira.mendonca@ifood.com.br,10,FALSO,,Match
+8,5,10,9,8,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Ajustando a Rota,Suave Desvio
+9,9,10,4,7,8,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,12,FALSO,Na Rota,Suave Desvio
+^^,8,10,5,7,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,9,VERDADEIRO,,
+8,8,},8,9,9,julia.barroso@ifood.com.br,guilherme.matiello@ifood.com.br,11,VERDADEIRO,Voando Alto,Suave Desvio
+9,8,8,8,9,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,7,FALSO,Na Rota,Match
+10,10,10,10,10,10,julia.barroso@ifood.com.br,guilherme.matiello@ifood.com.br,7,,Ajustando a Rota,NULL
+7,9,9,7,9,8,,,,,,
+10,~~,10,9,8,9,diego.barreto@ifood.com.br,igor.ribeiro@ifood.com.br,5,FALSO,Brilhou na Entrega,Suave Desvio
+9,10,9,10,9,10,flavio.stecca@ifood.com.br,,9,FALSO,Brilhou na Entrega,Match
+9,7,Não,1,10,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,VERDADEIRO,Brilhou na Entrega,Match
+9,7,10,10,10,8,henrique.iwamoto@ifood.com.br,antonio.mello@ifood.com.br,7,FALSO,Voando Alto,Match
+10,10,8,8,8,8,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,10,VERDADEIRO,Brilhou na Entrega,Match
+7,8,10,7,8,8,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Brilhou na Entrega,Suave Desvio
+8,8,9,7,7,8,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,11,FALSO,Brilhou na Entrega,Suave Desvio
+10,9,10,9,10,10,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,,Na Rota,Match
+10,10,10,10,8,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,5,FALSO,Na Rota,Match
+10,10,10,10,10,10,gustavo.vitti@ifood.com.br,eduardo.corazzin@ifood.com.br,,FALSO,Brilhou na Entrega,Match
+10,10,10,,9,10,flavio.stecca@ifood.com.br,,8,FALSO,Voando Alto,Suave Desvio
+10,8,10,8,9,10,henrique.iwamoto@ifood.com.br,ricardo.ubrig@ifood.com.br,9,FALSO,Ajustando a Rota,Match
+10,10,10,10,Não,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,8,FALSO,Na Rota,Match
+7,},10,7,7,8,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,FALSO,Ajustando a Rota,Suave Desvio
+10,10,10,8,8,10,flavio.stecca@ifood.com.br,sandor.caetano@ifood.com.br,8,FALSO,Na Rota,Match
+10,10,9,10,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio
+9,8,10,8,8,9,flavio.stecca@ifood.com.br,igor.ribeiro@ifood.com.br,8,,Voando Alto,Suave Desvio
+10,10,10,10,10,10,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio
+8,8,10,7,7,10,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,12,VERDADEIRO,Brilhou na Entrega,Suave Desvio
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Ajustando a Rota,Suave Desvio
+10,,9,7,10,10,,raphael.bozza@ifood.com.br,9,VERDADEIRO,Na Rota,Match
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,9,FALSO,,Match
+7,7,4,8,8,7,flavio.stecca@ifood.com.br,isabel.araujo@ifood.com.br,9,FALSO,Na Rota,Suave Desvio
+10,10,10,10,10,10,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,12,FALSO,Na Rota,
+10,10,8,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Na Rota,Suave Desvio
+10,9,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Ajustando a Rota,Suave Desvio
+8,9,9,9,9,8,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Brilhou na Entrega,Match
+10,10,10,10,10,10,diego.barreto@ifood.com.br,joao.barreto@ifood.com.br,8,FALSO,Brilhou na Entrega,Suave Desvio
+Não,10,7,3,8,9,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,,Brilhou na Entrega,Suave Desvio
+9,8,9,10,9,9,flavio.stecca@ifood.com.br,isabel.araujo@ifood.com.br,9,FALSO,Brilhou na Entrega,Match
+6,8,8,9,8,8,flavio.stecca@ifood.com.br,,8,FALSO,Na Rota,Match
+10,8,9,8,7,10,flavio.stecca@ifood.com.br,thais.suzuki@ifood.com.br,8,FALSO,Brilhou na Entrega,Match
+10,10,10,10,10,10,flavio.stecca@ifood.com.br,leonardo.mariote@ifood.com.br,5,FALSO,Na Rota,Match
+10,8,10,3,8,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Na Rota,Match
+10,8,9,5,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,10,FALSO,,Suave Desvio
+8,8,9,1,9,9,gustavo.vitti@ifood.com.br,raphael.bozza@ifood.com.br,11,FALSO,Na Rota,Suave Desvio
+Não,6,8,5,7,8,diego.barreto@ifood.com.br,gustavo.mendes@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Match
+10,9,Não,10,8,9,mauro.piazza@ifood.com.br,mauro.piazza@ifood.com.br,8,FALSO,Na Rota,Match
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,7,FALSO,Ajustando a Rota,Match
+Não,6,7,7,6,8,roberto.gandolfo@ifood.com.br,marcel.alonso@ifood.com.br,9,FALSO,Na Rota,Match
+9,7,7,5,7,9,roberto.gandolfo@ifood.com.br,leandro.viana@ifood.com.br,9,FALSO,Brilhou na Entrega,Suave Desvio
+7,6,10,9,10,10,diego.barreto@ifood.com.br,joao.barreto@ifood.com.br,11,FALSO,Estacionado,
+10,9,5,9,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,,FALSO,Na Rota,Match
+8,5,10,8,7,7,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,12,VERDADEIRO,Na Rota,Suave Desvio
+3,10,Não,9,7,7,henrique.iwamoto@ifood.com.br,renata.torres@ifood.com.br,10,FALSO,Brilhou na Entrega,Suave Desvio
+7,2,1,9,3,5,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,12,VERDADEIRO,Na Rota,Match
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,6,FALSO,Na Rota,Match
+10,10,10,10,10,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,11,VERDADEIRO,Brilhou na Entrega,Suave Desvio
+9,7,7,9,6,10,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,Ajustando a Rota,Match
+10,8,10,10,8,8,,,,,,
+9,10,7,9,9,9,flavio.stecca@ifood.com.br,joaquim.neto@ifood.com.br,10,FALSO,Na Rota,Match
+10,8,10,8,9,10,flavio.stecca@ifood.com.br,isabella.piratininga@ifood.com.br,9,FALSO,Ajustando a Rota,Suave Desvio
+10,8,10,6,10,10,gustavo.vitti@ifood.com.br,andre.borges@ifood.com.br,14,VERDADEIRO,Na Rota,Match
+Não,9,9,9,8,9,flavio.stecca@ifood.com.br,ciro.verdi@ifood.com.br,9,FALSO,,Match
+10,9,10,9,9,10,roberto.gandolfo@ifood.com.br,arnaldo.bertolaccini@ifood.com.br,13,VERDADEIRO,Brilhou na Entrega,Match
